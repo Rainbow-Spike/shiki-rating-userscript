@@ -1,15 +1,16 @@
 // ==UserScript==
 // @name         Shiki Rating
 // @namespace    http://shikimori.org/
-// @version      2.7
+// @version      2022.12.08 / 2.8
 // @description  Rating from shiki users
 // @author       ImoutoChan
-// @match        http://shikimori.org/*
-// @match        https://shikimori.org/*
-// @match        http://shikimori.one/*
-// @match        https://shikimori.one/*
+// @match        http*://shikimori.org/*
+// @match        http*://shikimori.one/*
 // @license      MIT
 // @grant        none
+// @supportURL   https://github.com/ImoutoChan/shiki-rating-userscript/issues
+// @updateURL    https://github.com/ImoutoChan/shiki-rating-userscript/raw/master/ShikiRating.user.js
+// @downloadURL  https://github.com/ImoutoChan/shiki-rating-userscript/raw/master/ShikiRating.user.js
 // ==/UserScript==
 
 var debug = false;
